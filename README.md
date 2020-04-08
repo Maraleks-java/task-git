@@ -2,4 +2,5 @@
 
 Some content 
 
- - it's a version control system
+Git - it's a version control system
+
