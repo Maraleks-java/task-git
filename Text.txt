@@ -1,16 +1,18 @@
 
+
 GitPRO
 
-Введение 
-Эта глава о том, как начать работу с Git. Сначала мы объясним основы инструментов управления версиями, затем - как запустить Git на вашей машине и наконец как настроить его, чтобы можно было работать. К концу главы вы будете понимать, для чего Git вообще сделан, почему вам следует пользоваться им, и будете уметь настраивать его.
+Introduction
+This chapter is about getting started with Git. First we explain the basics of version control tools, then how to run Git on your machine, and finally how to configure it so that it can work. Towards the end of the chapter, you will understand why Git is made at all, why you should use it, and you will be able to configure it.
 
-Об управлении версиями 
-Что такое управление версиями, и зачем оно вам нужно ? Система управления версиями - это система, сохраняющая изменения в одном или нескольких файлах так, чтобы потом можно было восстановить определенные старые версии. Для примеров в этой книге мы будем использовать исходные коды программ, но на самом деле можно управлять версиями практически любых типов файлов.
+About version control
+What is version control, and why do you need it? A version control system is a system that saves changes to one or more files so that later certain old versions can be restored. For the examples in this book, we will use the source code for the programs, but in fact you can manage versions of almost any type of file.
 
-Если вы графический или веб-дизайнер и хотите хранить каждую версию изображения или макета - вот это вам наверняка нужно - то пользоваться системой управления версиями будет очень мудрым решением. Она позволяет вернуть файл к прежнему виду, вернуть к прежнему состоянию весь проект, сравнить изменения с какого-то времени, увидеть, кто последним изменял модуль, который дал сбой, кто создал проблему, и т.д. Вообще, если, пользуясь СУВ, вы всё испортили или потеряли файлы, всё можно легко восстановить. Кроме того, издержки на всё это будут очень маленькими.
+If you are a graphic or web designer and want to store each version of an image or layout - you probably need this - then using a version control system will be a very wise decision. It allows you to return the file to its previous form, restore the entire project to its previous state, compare the changes from some time, see who last changed the module, which failed, who created the problem, etc. In general, if, using the SUV, you messed up or lost everything, everything can be easily restored. In addition, the cost of all this will be very small.
 
-Локальные системы управления версиями
+Local Version Control Systems
 ---------------------------------------------------------------------
 Some content 
 More 
+
 
