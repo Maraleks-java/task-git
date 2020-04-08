@@ -1,3 +1,7 @@
+Bla-vla-vla
+
+GitPRO
+
 Introduction
 This chapter is about getting started with Git. First we explain the basics of version control tools, then how to run Git on your machine, and finally how to configure it so that it can work. Towards the end of the chapter, you will understand why Git is made at all, why you should use it, and you will be able to configure it.
 
@@ -7,6 +11,7 @@ What is version control, and why do you need it? A version control system is a s
 If you are a graphic or web designer and want to store each version of an image or layout - you probably need this - then using a version control system will be a very wise decision. It allows you to return the file to its previous form, restore the entire project to its previous state, compare the changes from some time, see who last changed the module, which failed, who created the problem, etc. In general, if, using the SUV, you messed up or lost everything, everything can be easily restored. In addition, the cost of all this will be very small.
 
 Local Version Control Systems
----------------------------------------------------------------------
+ 
+
 
 
